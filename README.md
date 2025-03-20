@@ -21,7 +21,7 @@ Antes de rodar o projeto, você precisa garantir que os seguintes requisitos est
 No terminal, clone o repositório do projeto ou baixe o arquivo .Zip se preferir
 
 ### 4. Instalar as dependências do projeto
-Na raiz do seu projeto utilize o comando: 
+Importante utilizar o terminal CMD, e na raiz do seu projeto utilize o comando: 
  
 composer install
 
