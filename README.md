@@ -64,6 +64,6 @@ Com o servidor rodando, você pode acessar as seguintes URLs diretamente no seu 
   Para visualizar a lógica de cada rota, acesse a pasta `app/Http/Controllers`. Os controladores contêm os métodos que processam as requisições e interagem com a API externa do OpenWeather.
 
 - **Rotas**:  
-  As rotas da API estão definidas em `routes/api.php`. É nesse arquivo que você pode configurar novas rotas ou ajustar as existentes.
+  As rotas da API estão definidas em `routes/web.php`. É nesse arquivo que você pode configurar novas rotas ou ajustar as existentes.
 
 
